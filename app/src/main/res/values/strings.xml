@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">JetpackSubmission</string>
+    <string name="tab_text_1">Movies</string>
+    <string name="tab_text_2">TV Shows</string>
+    <string name="title">Title</string>
+    <string name="release_date">Release Date</string>
+    <string name="overview">Overview</string>
+    <string name="dertails">Details</string>
+    <string name="information">Information</string>
+    <string name="movie_catalogue">Movie Catalogue</string>
+    <string name="title_activity_favorite">FavoriteActivity</string>
+    <string name="favorite">Favorite</string>
+</resources>
